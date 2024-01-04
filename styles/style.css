@@ -1,0 +1,66 @@
+.html{
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    background-color: #D3E7DB;
+    border: 10px;
+    border-style: outset;
+    border-color: aliceblue;
+}
+.titulo{
+    font-size: 30px;
+    color: #82BE99;
+    background-color: #D3E7DB;
+    padding: 15px 15px 15px;
+}
+.menucabecera{
+    font-size: 26px;
+}
+.lista{
+    list-style-type: none;
+}
+.elemento{
+    display: inline;
+}
+.btn{
+    background-color: #77BF77;
+    border: none;
+    padding: 14px 28px;
+    font-family: 'Oswald', sans-serif;
+    cursor: pointer;
+    display: inline-block;
+}
+.success{
+    color: white; 
+}
+.btn:hover{ background: #A9EEA9}
+.firma{
+    font-size: 16px;
+}
+.indicepoesia{
+    font-size: 18px;
+}
+.listapoetas{
+    list-style-type: circle;
+}
+.poeta{
+    text-align: left;
+}
+.btn2{
+    color: #77BF77;
+    background-color: #82BE99;
+    padding: 7px 14px;
+    font-family: 'Oswald', sans-serif;
+    cursor: pointer;
+    border: none;
+}
+.btn2:hover{
+    background: #A9EEA9;
+}
+.cita{
+    text-align: right;
+}
+.imagencabecera{
+    width: 480px;
+    height: 216px;
+}   
