@@ -68,7 +68,7 @@
     font-size: 18px;
 }
 .listanarradores{
-    text-align: left;
+    list-style-type: circle;
 } 
 .autor{
     text-align: left;
