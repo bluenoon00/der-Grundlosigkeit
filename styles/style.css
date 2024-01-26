@@ -66,6 +66,9 @@
 } 
 .indicenarrativa{
     font-size: 18px;
+}
+.listanarradores{
+    text-align: left;
 } 
 .autor{
     text-align: left;
