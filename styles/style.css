@@ -64,6 +64,9 @@
     width: 480px;
     height: 216px;
 } 
+.indicenarrativa{
+    font-size: 18px;
+}
 .listaautores{
     list-style-type: circle;
 }  
