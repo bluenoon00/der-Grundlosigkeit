@@ -63,4 +63,10 @@
 .imagencabecera{
     width: 480px;
     height: 216px;
-}   
+} 
+.listaautores{
+    list-style-type: circle;
+}  
+.autor{
+    text-align: left;
+}
